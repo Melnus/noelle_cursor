@@ -1,7 +1,7 @@
 # noelle_cursor
 
 
-![noellecursor](https://user-images.githubusercontent.com/39730642/153744308-cdedb3a8-be6d-43fb-9ffc-ed320b78bef8.png)
+![noellecursor](https://github.com/Melnus/noelle_cursor/blob/main/noelle_cursor/noellecursor.png)
 
 
 ノエル　マウスカーソル
